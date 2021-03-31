@@ -21,8 +21,7 @@
 
 - 📫 How to reach me **rajaditya079@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17_VMEM5XnUQ7QQ-I1CC3zMXGLq9BE11UQOscMIXgTiY/edit?usp=sharing]https://drive.google.com/file/d/11sz9kToNMOsS7L7kfXxpe5OIWOz8oBdy/view?usp=sharing
-
+- 📄 Know about my experiences https://drive.google.com/file/d/11sz9kToNMOsS7L7kfXxpe5OIWOz8oBdy/view?usp=sharing
 - ⚡ Fun fact **Seeking knowledge of Competitive Programming everyday**
 
 <h3 align="left">Connect with me:</h3>
