@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Android apps**
 
-- 🌱 I’m currently learning **Open CV, Graphs**
+- 🌱 I’m currently learning **Java, Graphs**
 
 - 👯 I’m looking to collaborate on **Open source**
 
 - 🤝 I’m looking for help with **Literally Everything**
 
-- 💬 Ask me about **CPP, JAVA, Python**
+- 💬 Ask me about **CPP, OpenCV, Selenium, Python**
 
 - 📫 How to reach me **rajaditya079@gmail.com**
 
